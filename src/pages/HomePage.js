@@ -2,7 +2,7 @@ import React from "react";
 
 const HomePage = () => {
   return (
-    <div>
+    <React.Fragment>
       <h1>My Experience as a Product Designer in a Development Team</h1>
       <p>
         Hello and welcome to my Full Stack developer blog. If you have worked as
@@ -75,7 +75,7 @@ const HomePage = () => {
           </li>
         </ul>
       </p>
-    </div>
+    </React.Fragment>
   );
 };
 
