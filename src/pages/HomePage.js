@@ -59,22 +59,22 @@ const HomePage = () => {
       <p>
         There are various elements to consider in order to solve this,
         including:
-        <ul>
-          <li>
-            Create clear information architecture and incorporate feature maps,
-            user flows, and other visual aids if possible.
-          </li>
-          <li>
-            Make an interactive prototype that is as close as possible to the
-            final platform or application.
-          </li>
-          <li>
-            This will also help identify difficulties or gaps with the
-            developers that can be addressed during the design phase, avoiding
-            labor and patches later on.
-          </li>
-        </ul>
       </p>
+      <ul>
+        <li>
+          Create clear information architecture and incorporate feature maps,
+          user flows, and other visual aids if possible.
+        </li>
+        <li>
+          Make an interactive prototype that is as close as possible to the
+          final platform or application.
+        </li>
+        <li>
+          This will also help identify difficulties or gaps with the developers
+          that can be addressed during the design phase, avoiding labor and
+          patches later on.
+        </li>
+      </ul>
     </React.Fragment>
   );
 };
